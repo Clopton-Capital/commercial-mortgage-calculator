@@ -2,7 +2,7 @@
 
 [logo]: https://github.com/Clopton-Capital/commercial-mortgage-calculator/blob/master/clopton-capital.png "Commercial Mortgage Broker"
 
-# Clopton Capital
+## About Us
 
 Chicago based [Clopton Capital](https://cloptoncapital.com/), a national [commercial mortgage broker](https://cloptoncapital.com/) known to attend to every little detail has built a technically sophisticated [commercial mortgage calculator](https://cloptoncapital.com/commercial-mortgage-calculator/) designed to save you time and effort in determining your financing costs and anticipated returns.
 
