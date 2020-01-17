@@ -10,4 +10,4 @@ In our modern world governed by technology and artificial intelligence it may no
 
 ## Need Assistance?
 
-To contact a commercial mortgage broker at https://cloptoncapital.com/ to discuss financing, please fill out the [contact form](https://cloptoncapital.com/contact-us/)  with your contact information and deal details, such as amount, property type, loan to value, and desired fixed period. We commit to contacting you within 24 hours to let you know about the fastest and most competitive loan for your business.
+To contact a commercial mortgage broker at Clopton Capital to discuss financing, please fill out the [contact form](https://cloptoncapital.com/contact-us/)  with your contact information and deal details, such as amount, property type, loan to value, and desired fixed period. We commit to contacting you within 24 hours to let you know about the fastest and most competitive loan for your business.
