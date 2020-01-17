@@ -4,7 +4,7 @@
 
 ## About Us
 
-Chicago based [Clopton Capital](https://cloptoncapital.com/), a national [commercial mortgage broker](https://cloptoncapital.com/) known to attend to every little detail has built a technically sophisticated [commercial mortgage calculator](https://cloptoncapital.com/commercial-mortgage-calculator/) designed to save you time and effort in determining your financing costs and anticipated returns.
+Chicago based [Clopton Capital](https://cloptoncapital.com/), a national [commercial mortgage broker](https://cloptoncapital.com/ "Commercial Mortgage Broker") known to attend to every little detail has built a technically sophisticated [commercial mortgage calculator](https://cloptoncapital.com/commercial-mortgage-calculator/ "Commercial Mortgage Calculator") designed to save you time and effort in determining your financing costs and anticipated returns.
 
 In our modern world governed by technology and artificial intelligence it may not seem exactly groundbreaking but if you are in the market to borrow funds for industrial, commercial, multi-family & apartment buildings, hotels, and mixed-use real estate situations this tool will certainly give verification to your ideas, helping you in many ways.
 
